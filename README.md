@@ -16,10 +16,10 @@ Research Question
 Links:
 
 
-•	https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_income
-•	https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_incarceration_and_correctional_supervision_rate
-•	https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_educational_attainment
-•	https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_unemployment_rate 
+https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_income
+https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_incarceration_and_correctional_supervision_rate
+https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_educational_attainment
+https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_unemployment_rate 
 
 Image: Refer to the attachments in the Repository
 
