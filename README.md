@@ -23,8 +23,7 @@ Links
 
 Image: Refer to the attachments in the Repository
 
-Discussion
-You must contribute a short (1-2 paragraph) written justification of how your visualization addresses your stated research question.
+Inference:
 
 The visualization was concerned with answering the question of how the Socioeconomic status of Michigan compares to its neighboring states (Wisconsin, Illinois, Indiana, Ohio, New York, Pennsylvania, West Virginia, Kentucky, Missouri, Iowa, Minnesota) and the comparison is made for the socioeconomic variables like (Education, Per Capita Income, Unemployment Rate & # Imprisoned ( Crime Indicator) ).
 Wikipedia was scraped for data concerning each socioeconomic variable for each of the State. All the data points which are used are the updated data from Wikipedia from American Community Surveys, UN Department of Justice, U.S. Census and Bureau of Labor Statistics. Most data which is scraped from Wikipedia is from the 2010 – 2014 American Community Survey, year end 2016 (# Imprisonment) and April 2020 (Unemployment Rate). To have the Y-axis even for all the variables, each of them have been normalized (I have used Min-Max Normalization method) on a Scale of 0 to 1.
