@@ -13,7 +13,7 @@ Research Question
 	How does the socioeconomic status of Michigan compare with its neighboring states?
 
 
-Links
+Links:
 
 
 •	https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_income
